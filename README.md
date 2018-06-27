@@ -7,7 +7,7 @@ Downloading the Code Labs
 Run the following command in your computer's Terminal to download the code repository:
 
 ```bash
-git clone https://github.com/bwhite000/Code-Labs-Summer-2018.git
+git clone https://github.com/bwhite000/Code-Academy-Labs-Summer-2018.git
 ```
 
 Then, navigate into the code folder:
