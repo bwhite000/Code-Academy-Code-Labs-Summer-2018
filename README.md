@@ -13,7 +13,7 @@ git clone https://github.com/bwhite000/Code-Academy-Labs-Summer-2018.git
 Then, navigate into the code folder:
 
 ```bash
-cd Code-Labs-Summer-2018
+cd Code-Academy-Labs-Summer-2018
 ```
 
 > **Pro-tip:** Hit the `tab` key in your Terminal after typing the first few letters to auto-complete the directory name.
